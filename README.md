@@ -54,7 +54,7 @@
       <li>Grenade Tracers</li>
       <li>Walking Trail [Disabled]</li>
       <li>Watermark</li>
-      <li>Speed Graph (Visualize Speed)</li>
+      <li>Speed Graph</li>
       <li>Night Mode [Not real/Trash]</li>
       <li>Bunny Hop [Trash]</li>
       <li>Instant Ban [Troll Feature]</li>
