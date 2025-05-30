@@ -69,3 +69,8 @@
     </ul>
   </li>
 </ul>
+
+<h3>Known Issues:</h3>
+<ul>
+  <li>Crashing when loading (new) map. Only Inject in a map for now.</li>
+</ul>
