@@ -71,13 +71,13 @@
 
 <h3>Known Issues:</h3>
 <ul>
-  <li>FOV changer flicker.</li>
+  <li>FOV changer flicker</li>
 </ul>
 
 <h3>Recent Fixes/Additions:</h3>
 <ul>
   <li>Arduino Integration</li>
-  <li>All Crashes.</li>
+  <li>Most Crashes</li>
 </ul>
 
 <p>Im only making this cheat to learn new stuff and because im bored. Ik its trash xd</p>
