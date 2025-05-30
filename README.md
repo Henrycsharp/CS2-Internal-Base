@@ -75,7 +75,7 @@
   <li>FOV changer flicker.</li>
 </ul>
 
-<h3>recent Fixes/Additions:</h3>
+<h3>Recent Fixes/Additions:</h3>
 <ul>
   <li>Fixed all crashes.</li>
 </ul>
