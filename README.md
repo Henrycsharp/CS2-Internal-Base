@@ -1,8 +1,7 @@
 # CS2 Internal Cheat
 <p>Made with <a href="https://github.com/Rebzzel/kiero">kiero´s universal graphical hook</a></p>
 
-<p><strong>VERY DETECTED!</strong></p>
-<p><strong>TRSH!</strong></p>
+<p><strong>VERY DETECTED & TRASH!</strong></p>
 
 <h3>Features:</h3>
 <ul>
