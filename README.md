@@ -73,9 +73,12 @@
 <ul>
   <li>Crashing when loading (new) map. Only Inject in a map for now.</li>
   <li>FOV changer flicker.</li>
-  <li>Quick Stop not working.</li>
 </ul>
 
+<h3>recent Fixes/Additions:</h3>
+<ul>
+  <li>Fixed all crashes.</li>
+</ul>
 
 <p>Im only making this cheat to learn new stuff and because im bored. Ik its trash xd</p>
 
