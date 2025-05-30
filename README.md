@@ -32,7 +32,7 @@
       <li>Aimbot</li>
       <li>Aimbot Team Check</li>
       <li>Show Aimbot Bone</li>
-      <li>Scope Check (Disable Aimbot when Scoped)</li>
+      <li>Scope Check</li>
       <li>Auto Scope (Snipers)</li>
       <li>Instant Flick Mode</li>
       <li>Recoil Control (RCS)</li>
@@ -53,7 +53,7 @@
       <li>Smoke Color Changer</li>
       <li>Remove Smoke</li>
       <li>Grenade Tracers</li>
-      <li>Walking Trail [Disabled]</li>
+      <li>Walking Trail</li>
       <li>Watermark</li>
       <li>Speed Graph</li>
       <li>Night Mode [Not real/Trash]</li>
