@@ -1,5 +1,4 @@
 # CS2 Internal Cheat
-<p>Made with <a href="https://github.com/Rebzzel/kiero">kiero´s universal graphical hook</a></p>
 
 <p><strong>VERY DETECTED & TRASH!</strong></p>
 
@@ -78,3 +77,5 @@
 
 
 <p>Im only making this cheat to learn new stuff and because im bored. Ik its trash xd</p>
+
+<p>Made with <a href="https://github.com/Rebzzel/kiero">kiero´s universal graphical hook</a></p>
