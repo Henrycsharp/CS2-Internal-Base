@@ -73,6 +73,7 @@
 <ul>
   <li>Crashing when loading (new) map. Only Inject in a map for now.</li>
   <li>FOV changer flicker.</li>
+  <li>Quick Stop not working.</li>
 </ul>
 
 
