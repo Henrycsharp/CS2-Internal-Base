@@ -77,7 +77,7 @@
 <h3>Recent Fixes/Additions:</h3>
 <ul>
   <li>Arduino Integration</li>
-  <li>Most Crashes</li>
+  <li>All Crashes Caused By Loading A New Map</li>
 </ul>
 
 <p>Im only making this cheat to learn new stuff and because im bored. Ik its trash xd</p>
