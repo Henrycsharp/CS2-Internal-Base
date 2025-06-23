@@ -78,6 +78,7 @@
 <ul>
   <li>Arduino Integration</li>
   <li>All Crashes Caused By Loading A New Map</li>
+  <li>Glow ESP</li>
 </ul>
 
 <p>Im only making this cheat to learn new stuff and because im bored. Ik its trash xd</p>
