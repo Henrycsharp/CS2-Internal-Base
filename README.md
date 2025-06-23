@@ -22,7 +22,7 @@
       <li>Team Skeleton ESP</li>
       <li>Chicken ESP + Distance</li>
       <li>Player Status Display (e.g., Scoped, Reloading)</li>
-      <li>Bombsite Debug</li>
+      <li>Glow</li>
     </ul>
   </li>
 
