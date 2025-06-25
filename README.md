@@ -1,6 +1,6 @@
 # CS2 Internal Cheat
 
-<p><strong>VERY DETECTED & TRASH!</strong></p>
+<p><strong>GIVES RED TRUST & TRASH!</strong></p>
 
 <h3>Features:</h3>
 <ul>
