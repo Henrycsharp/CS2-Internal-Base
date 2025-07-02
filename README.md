@@ -87,7 +87,7 @@
 
 ### Preview:
 
-<img src="https://github.com/user-attachments/assets/09167e72-68f8-4f0b-81ec-1432c31ca62f" width="400"/>
+<img src="https://github.com/user-attachments/assets/7582b60d-4f72-40a5-af38-48f8fec1d54c" width="400"/>
 <img src="https://github.com/user-attachments/assets/f2aef8db-652c-48db-8cb8-b475722f4ee9" width="400"/>
 
 
