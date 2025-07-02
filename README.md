@@ -85,7 +85,9 @@
 
 <p>Made with <a href="https://github.com/Rebzzel/kiero">kiero´s universal graphical hook</a></p>
 
-<h3>Preview:</h3>
-![image](https://github.com/user-attachments/assets/09167e72-68f8-4f0b-81ec-1432c31ca62f)
-![image](https://github.com/user-attachments/assets/f2aef8db-652c-48db-8cb8-b475722f4ee9)
+### Preview:
+
+<img src="https://github.com/user-attachments/assets/09167e72-68f8-4f0b-81ec-1432c31ca62f" width="400"/>
+<img src="https://github.com/user-attachments/assets/f2aef8db-652c-48db-8cb8-b475722f4ee9" width="400"/>
+
 
