@@ -3,17 +3,7 @@
 
 namespace offsets {
 	//offets.hpp
-	constexpr std::ptrdiff_t dwEntityList = 0x1A05670;
-	constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x18590D0;
-	constexpr std::ptrdiff_t dwViewMatrix = 0x1A6E3F0;
-	constexpr std::ptrdiff_t dwGameRules = 0x1A69CB8;
-	constexpr std::ptrdiff_t dwViewAngles = 0x1A78650;
-	constexpr std::ptrdiff_t dwPlantedC4 = 0x1A07700;
-	constexpr std::ptrdiff_t dwNetworkGameClient = 0x53FCE0;
-	constexpr std::ptrdiff_t dwNetworkGameClient_signOnState = 0x228;
-	constexpr std::ptrdiff_t dwGlobalVars = 0x184CEB0;
-	constexpr std::ptrdiff_t dwGameTypes = 0x1A52E0;
-	constexpr std::ptrdiff_t dwGameTypes_mapName = 0x120;
+
 	//client.dll.hpp
 	constexpr std::ptrdiff_t m_hPlayerPawn = 0x824;
 	constexpr std::ptrdiff_t m_iHealthBarRenderMaskIndex = 0x1410;
@@ -77,20 +67,5 @@ namespace offsets {
 	constexpr std::ptrdiff_t m_iItemDefinitionIndex = 0x1BA;
 	constexpr std::ptrdiff_t m_iObserverMode = 0x40;
 	//buttons.hpp
-	constexpr std::ptrdiff_t attack = 0x184E8F0;
-	constexpr std::ptrdiff_t attack2 = 0x184E980;
-	constexpr std::ptrdiff_t back = 0x184EBC0;
-	constexpr std::ptrdiff_t duck = 0x184EE90;
-	constexpr std::ptrdiff_t forward = 0x184EB30;
-	constexpr std::ptrdiff_t jump = 0x184EE00;
-	constexpr std::ptrdiff_t left = 0x184EC50;
-	constexpr std::ptrdiff_t lookatweapon = 0x1A75170;
-	constexpr std::ptrdiff_t reload = 0x184E860;
-	constexpr std::ptrdiff_t right = 0x184ECE0;
-	constexpr std::ptrdiff_t showscores = 0x1A75050;
-	constexpr std::ptrdiff_t sprint = 0x184E7D0;
-	constexpr std::ptrdiff_t turnleft = 0x184EA10;
-	constexpr std::ptrdiff_t turnright = 0x184EAA0;
-	constexpr std::ptrdiff_t use = 0x184ED70;
-	constexpr std::ptrdiff_t zoom = 0x1A750E0;
+
 }
