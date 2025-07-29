@@ -1,6 +1,6 @@
 # CS2 Internal Cheat
 
-<p><strong>DISCLAIMER</strong></p>
+<p><strong>DISCLAIMER:</strong></p>
 <ul>
   <li>Im making this cheat purely for learning and not for actual use.</li>
   <li>It will give you red trust, even though the cheat itself is not detected.</li>
