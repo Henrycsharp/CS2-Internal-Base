@@ -24,10 +24,9 @@
       <li>Player Names</li>
       <li>Distance ESP</li>
       <li>Weapon ESP + Distance</li>
-      <li>Item ESP (Global)</li>
+      <li>Item ESP</li>
       <li>Spectator List</li>
       <li>Skeleton ESP</li>
-      <li>Team Skeleton ESP</li>
       <li>Chicken ESP + Distance</li>
       <li>Player Status Display (e.g., Scoped, Reloading)</li>
       <li>Glow</li>
@@ -37,19 +36,12 @@
   <li><strong>Aimbot & Triggerbot</strong>:
     <ul>
       <li>Aimbot</li>
-      <li>Aimbot Team Check</li>
-      <li>Show Aimbot Bone</li>
-      <li>Scope Check</li>
-      <li>Auto Scope (Snipers)</li>
-      <li>Instant Flick Mode</li>
+      <li>Auto Scope</li>
       <li>Recoil Control (RCS)</li>
       <li>KnifeBot</li>
       <li>JumpScout</li>
       <li>Auto Pistol</li>
       <li>Triggerbot</li>
-      <li>Triggerbot Team Check</li>
-      <li>Triggerbot Flash Check</li>
-      <li>Triggerbot Air Check</li>
     </ul>
   </li>
 
@@ -63,8 +55,8 @@
       <li>Walking Trail</li>
       <li>Watermark</li>
       <li>Speed Graph</li>
-      <li>Night Mode [Not real/Trash]</li>
-      <li>Bunny Hop [Trash]</li>
+      <li>Night Mode [External-Like/Trash]</li>
+      <li>Bunny Hop [External-Like/Trash]</li>
       <li>Instant Ban [Troll Feature]</li>
     </ul>
   </li>
@@ -79,6 +71,7 @@
 
 <h3>Known Issues:</h3>
 <ul>
+  <li>Broken due to AnimGraph2 update.</li>
   <li>FOV changer flicker</li>
 </ul>
 
