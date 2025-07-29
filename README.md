@@ -4,8 +4,10 @@
 <ul>
   <li>Im making this cheat purely for learning and not for actual use.</li>
   <li>It will give you red trust, even though the cheat itself is not detected.</li>
-  <li><h4><strong>The cheat is currently not working due to the AnimGraph2 update.</strong></h4></li>
-  <li>I will look into a fix if i have time, but i can´t promise anything. Feel free to try to fix it urself.</li>
+  <li><strong>The cheat is currently not working due to the AnimGraph2 update.</strong></li>
+  <ul>
+      <li>I will look into a fix if i have time, but i can´t promise anything. Feel free to try to fix it urself.</li>
+  </ul>
 </ul>
 
 <h3>Features:</h3>
