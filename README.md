@@ -1,6 +1,12 @@
 # CS2 Internal Cheat
 
-<p><strong>GIVES RED TRUST & TRASH!</strong></p>
+<p><strong>DISCLAIMER</strong></p>
+<ul>
+  <li>Im making this cheat purely for learning and not for actual use.</li>
+  <li>It will give you red trust, even though the cheat itself is not detected.</li>
+  <li><strong>The cheat is currently not working due to the AnimGraph2 update.</strong></li>
+  <li>I will look into a fix if i have time, but i can´t promise anything. Feel free to try to fix it urself.</li>
+</ul>
 
 <h3>Features:</h3>
 <ul>
@@ -80,8 +86,6 @@
   <li>All Crashes Caused By Loading A New Map</li>
   <li>Glow ESP</li>
 </ul>
-
-<p>Im only making this cheat to learn new stuff and because im bored. Ik its trash xd</p>
 
 <p>Made with <a href="https://github.com/Rebzzel/kiero">kiero´s universal graphical hook</a></p>
 
